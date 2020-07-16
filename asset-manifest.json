@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vuxile-1991/robofriends/static/css/main.cf094bab.chunk.css",
+    "main.js": "/vuxile-1991/robofriends/static/js/main.0c3ecd7b.chunk.js",
+    "main.js.map": "/vuxile-1991/robofriends/static/js/main.0c3ecd7b.chunk.js.map",
+    "runtime-main.js": "/vuxile-1991/robofriends/static/js/runtime-main.74553074.js",
+    "runtime-main.js.map": "/vuxile-1991/robofriends/static/js/runtime-main.74553074.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/vuxile-1991/robofriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js": "/vuxile-1991/robofriends/static/js/2.e7e24cc0.chunk.js",
+    "static/js/2.e7e24cc0.chunk.js.map": "/vuxile-1991/robofriends/static/js/2.e7e24cc0.chunk.js.map",
+    "index.html": "/vuxile-1991/robofriends/index.html",
+    "precache-manifest.4cda54c548153e53c83016098144f8eb.js": "/vuxile-1991/robofriends/precache-manifest.4cda54c548153e53c83016098144f8eb.js",
+    "service-worker.js": "/vuxile-1991/robofriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/vuxile-1991/robofriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.cf094bab.chunk.css.map": "/vuxile-1991/robofriends/static/css/main.cf094bab.chunk.css.map",
+    "static/js/2.e7e24cc0.chunk.js.LICENSE.txt": "/vuxile-1991/robofriends/static/js/2.e7e24cc0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/vuxile-1991/robofriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74553074.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js",
+    "static/css/main.cf094bab.chunk.css",
+    "static/js/main.0c3ecd7b.chunk.js"
+  ]
+}
